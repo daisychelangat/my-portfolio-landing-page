@@ -1,0 +1,68 @@
+h1 {
+    color: pink;
+    text-align: center;
+    background-color: red
+    font-size:40px;
+    font-style:italic;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .boxed {
+   border: 2px solid green;
+   padding: 6px;
+   margin: 20px;
+   background-color: #2F4F4F;
+  }
+  .sidebar {
+  width: 60%;
+  float: right;
+  background-color: #A52A2A;
+  }
+  
+  
+  h2 {
+    color: pink;
+    font-style:oblique;
+    font-size: 30px;
+  }
+  h3{
+    color: pink;
+    font-style:oblique;
+    font-size: 30px;
+  }
+  h4{
+    color: pink;
+    font-style:oblique;
+    font-size: 30px;
+  }
+  h5{
+    color: pink;
+    font-style:oblique;
+    font-size: 30px;
+  
+  }
+  body {
+    background-color: #800080;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: black;
+  }
+  
+  ol {
+    line-height: 40px;
+  }
+  li {
+    display: oneline;
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .Education p {
+    background-color: #800000;
+  }
