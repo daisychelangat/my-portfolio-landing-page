@@ -10,7 +10,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 30%;
-    border-radius: 25px;
+    border-radius: 50px;
   }
   .boxed {
    border: 2px solid green;
@@ -23,6 +23,7 @@ h1 {
   float: right;
   color: black;
   background-color: rgb(135, 207, 235);
+  border-radius:50px ;
 
   }
   
@@ -62,9 +63,6 @@ h1 {
     color: black;
   }
   
-  ol {
-    line-height: 40px;
-  }
   li {
     display: oneline;
     font-family: verdana;
@@ -72,6 +70,7 @@ h1 {
   }
   .Education p {
     color: black;
+    border-radius:25px ;
     background-color:rgb(135, 207, 235)
   
   }
@@ -95,6 +94,8 @@ margin-top:150px;
     margin-right: auto;
     text-align: center;
     list-style-position: inside;
-    background-color:rgb(135, 207, 235)
+    background-color:rgb(135, 207, 235);
+    line-height: 40px;
+    border-radius:50px ;
 }
   
