@@ -16,7 +16,7 @@ h1 {
    border: 2px solid green;
    padding: 6px;
    margin: 20px;
-   background-color: #2F4F4F;
+   background-color: rgb(135, 207, 235);
   }
   .sidebar {
   width: 60%;
