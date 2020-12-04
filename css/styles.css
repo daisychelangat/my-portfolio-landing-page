@@ -21,7 +21,9 @@ h1 {
   .sidebar {
   width: 60%;
   float: right;
+  color: black;
   background-color: rgb(135, 207, 235);
+
   }
   
   
@@ -69,7 +71,9 @@ h1 {
     font-size: 20px;
   }
   .Education p {
+    color: black;
     background-color:rgb(135, 207, 235)
+  
   }
   #one{
 float:left;
@@ -86,7 +90,7 @@ margin-top:150px;
   ol{
     
     display: block;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     margin-left: auto;
     margin-right: auto;
     text-align: center;
