@@ -1,5 +1,5 @@
 h1 {
-    color: pink;
+    color:  rgba(255, 0, 0, 0.801);
     text-align: center;
     background-color: red
     font-size:40px;
@@ -20,33 +20,33 @@ h1 {
   .sidebar {
   width: 60%;
   float: right;
-  background-color: #A52A2A;
+  background-color: rgb(135, 207, 235);
   }
   
   
   h2 {
-    color: pink;
+    color: rgba(255, 0, 0, 0.801);
     font-style:oblique;
     font-size: 30px;
   }
   h3{
-    color: pink;
+    color:  rgba(255, 0, 0, 0.801);
     font-style:oblique;
     font-size: 30px;
   }
   h4{
-    color: pink;
+    color:  rgba(255, 0, 0, 0.801);
     font-style:oblique;
     font-size: 30px;
   }
   h5{
-    color: pink;
+    color:  rgba(255, 0, 0, 0.801);
     font-style:oblique;
     font-size: 30px;
   
   }
   body {
-    background-color: #800080;
+    background-color: rgb(255, 255, 255);
   }
   
   p {
@@ -64,5 +64,5 @@ h1 {
     font-size: 20px;
   }
   .Education p {
-    background-color: #800000;
+    background-color:rgb(135, 207, 235)
   }
