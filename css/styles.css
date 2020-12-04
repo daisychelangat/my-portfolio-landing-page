@@ -2,7 +2,7 @@ h1 {
     color:  rgba(255, 0, 0, 0.801);
     text-align: center;
     background-color: red
-    font-size:40px;
+    font-size: 40px;
     font-style:italic;
   }
   img {
@@ -10,6 +10,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+    border-radius: 25px;
   }
   .boxed {
    border: 2px solid green;
@@ -65,4 +66,13 @@ h1 {
   }
   .Education p {
     background-color:rgb(135, 207, 235)
+  }
+  #one{
+float:left;
+width: 15%;
+border-radius: 50%;
+  }
+  #two{
+float: right;
+width: 15%;
   }
