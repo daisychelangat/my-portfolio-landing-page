@@ -1,9 +1,9 @@
 h1 {
     color:  rgba(255, 0, 0, 0.801);
     text-align: center;
-    background-color: red
+     font-style:italic;
     font-size: 40px;
-    font-style:italic;
+    background-color: red
   }
   img {
     display: block;
@@ -24,6 +24,9 @@ h1 {
   color: black;
   background-color: rgb(135, 207, 235);
   border-radius:50px ;
+  margin-left:100px;
+  padding: 1opx;
+  border: 2px blackbackground-color: red;
 
   }
   
