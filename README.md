@@ -3,7 +3,7 @@
 
 #### A web portfolio to showcase my projects,skills.job experience,education,
 #### By * Daisy Chelangat**
-## Description A portfolio that shows my projects,skills and education background
+## Description-A portfolio that shows my projects,skills and education background
 ## Setup/Installation Requirements
 * linux
 * git and github
